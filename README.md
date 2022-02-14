@@ -10,7 +10,7 @@ Repositório  criado na faculdade durante as aulas de que tive de web.
 Faculdade: UniRedentor Afya (Itaperuna) | Professor: Elisson  | Curso: Sistemas de informação  2º Período
 
 <lu>
-  <h3>Requisitos de Instalação ter Instalado:</h3>
+  <h3>Requisitos de Instalação:</h3>
   <li>Ruby 2.3.3</li> 
   <li>Rails 5.1.6</li>
   <li>git clone https://github.com/UniREDENTOR/Rails.git</li> 
